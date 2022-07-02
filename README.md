@@ -1,1 +1,1 @@
-# wp-perfil
+# WordPress para site de perfil profissional.
